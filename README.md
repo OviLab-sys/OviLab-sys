@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **A Wi-Fi Billing Web Application**
  
- 🌱 I’m currently learning **Docker, AWS**
+ 🌱 Currently, I'm learning **Docker, AWS**
 
 💬 Ask me about **Django/DjangoRESTful, FastAPIs, Laravel, React... or anything**
 
