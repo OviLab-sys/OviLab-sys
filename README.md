@@ -6,8 +6,6 @@
 
 <h3 align="center">A passionate Software Engineer from Nairobi,Kenya</h3>
 
-<br/>
-
 <div align="center">
  
  🔭 I’m currently working on **A Wi-Fi Billing Web Application**
