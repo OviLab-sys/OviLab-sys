@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about **Django/DjangoRESTful, FastAPIs, LaravelReact... or anything**
+💬 Ask me about **Django/DjangoRESTful, FastAPIs, Laravel, React... or anything**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
