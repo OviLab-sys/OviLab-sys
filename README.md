@@ -14,7 +14,7 @@
 
 💬 Ask me about **Django/DjangoRESTful, FastAPIs, Laravel, React... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The Matrix code for all the three "Matrix" movies comes from sushi recipes**
 
  </div>
  <div align="center">
