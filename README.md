@@ -24,7 +24,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://github.com/vicoduor/OviLab/blob/output/github-contribution-grid-snake-dark.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
  
 <div align="center"> 
