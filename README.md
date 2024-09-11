@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A Wi-Fi Billing Web Application**
+ 🔭 I’m currently working on **A Wi-Fi Billing Web Application & an Automation infrastructure For Virtual/Executive Assistant**
  
- 🌱 Currently, I'm learning **Docker, AWS**
+ 🌱 Currently, I'm learning **Docker, AWS, & Machine Learning **
 
 💬 Ask me about **Django/DjangoRESTful, FastAPIs, Laravel, React... or anything**
 
