@@ -14,7 +14,7 @@
 
 💬 Ask me about **Django/DjangoRESTful, FastAPIs, Laravel, React... or anything**
 
-⚡ Fun fact **The Matrix code in all the three "Matrix" movies comes from sushi recipes**
+⚡ Fun fact **The Matrix code in all the 4 "Matrix" movies is inspired by sushi recipes**
 
  </div>
  <div align="center">
