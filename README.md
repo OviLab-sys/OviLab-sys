@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **A Wi-Fi Billing Web Application & an Automation infrastructure For Virtual/Executive Assistant**
  
- $ For completed projects, follow **<a href="https://github.com/OviLab-sys?tab=repositories">My Projects</a>**
+ **$** For completed projects, follow **<a href="https://github.com/OviLab-sys?tab=repositories">My Projects</a>**
   
  🌱 At the moment, I'm learning **Docker, AWS, & Machine Learning**
 
