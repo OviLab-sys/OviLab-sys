@@ -12,7 +12,7 @@
  
  **$** For completed projects, follow **<a href="https://github.com/OviLab-sys?tab=repositories">My Projects</a>**
   
- 🌱 At the moment, I'm learning **AWS, & Machine Learning**
+ 🌱 At the moment, I'm learning **AWS & Machine Learning**
 
 💬 Ask me about **Django/DjangoRESTful, FastAPIs, Laravel, React... or anything**
 
