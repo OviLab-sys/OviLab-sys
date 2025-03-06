@@ -45,7 +45,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,vscode,python,git,docker,django,fastapi,php,laravel" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,react,github,bootstrap,javascript,mysql,TypeScript,figma,tailwind,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,github,bootstrap,javascript,mysql,typescript,figma,tailwind,ubuntu" />
 </div>
 
 <br/>
