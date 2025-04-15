@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A Wi-Fi Billing Web Application & an Automation infrastructure For Virtual/Executive Assistant**
+ 🔭 I’m currently working on **A Wi-Fi Billing Web Application & an Automation infrastructure For Virtual/Executive Assistant **
  
  **$** For completed projects, follow **<a href="https://github.com/OviLab-sys?tab=repositories">My Projects</a> **
   
