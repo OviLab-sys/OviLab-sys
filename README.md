@@ -6,7 +6,7 @@
 
 <h2 align="center">A passionate Software Engineer from Nairobi,Kenya.</h2>
 
-<div align="center">
+<div align="center" >
  
  🔭 I’m currently working on **A Wi-Fi Billing Web Application & an Automation infrastructure For Virtual/Executive Assistant**
  
